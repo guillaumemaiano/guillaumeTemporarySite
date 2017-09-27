@@ -1,3 +1,5 @@
+# ignore all the usual suspects
 .DS_Store
+themes/
 docs/
 public/

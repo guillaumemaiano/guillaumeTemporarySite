@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://guillaume.maiano.fr"
+baseurl = "http://guillaume.maiano.fr/"
 languageCode = "fr-fr"
 title = "Guillaume Maiano - Développeur"
 theme = "hugo-artists-theme"
@@ -51,7 +51,7 @@ theme = "hugo-artists-theme"
 
 		[[params.about.skills]]
 			name = "Développement"
-			value = 8
+			value = 9
 
 		[[params.about.skills]]
 			name = "Apple"
@@ -71,11 +71,11 @@ theme = "hugo-artists-theme"
 
 		[[params.about.skills]]
 			name = "Dons artistiques"
-			value = 2
+			value = 3
 
 		[[params.about.skills]]
 			name = "Organization"
-			value = 6
+			value = 7
 
 	# Contact secion
 	[params.contact]
